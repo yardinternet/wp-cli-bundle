@@ -18,6 +18,7 @@
 	"require": {
 		"php": ">=7.4",
 		"wp-cli/cache-command": "^2",
+		"wp-cli/config-command": "^2.4",
 		"wp-cli/core-command": "^2.1",
 		"wp-cli/cron-command": "^2.3",
 		"wp-cli/db-command": "^2",
